@@ -1,10 +1,10 @@
 {
   "Visibility": "VISIBLE",
   "Title": "Update available",
-  "Description": "Test Message",
-  "MainTextButton": "Update",
-  "DownloadLink": "https://example.com",
-  "Version": "1.0",
+  "Description": "Please update the latest version of this app to continue. Click the link below to update",
+  "MainTextButton": "Update now",
+  "DownloadLink": "https://devhis.com/appstore/earnclub.apk",
+  "Version": "1.1",
 
   "DialogTitle": "মাত্র ১০ টাকা হলে পেমেন্ট নিতে পারবেন। বেশি ইনকাম করতে হলে রেফর করুন কারন প্রতি রেফার 10 টাকা করে পাবেন। দিনে ১০০/২০০ টাকা ইনকাম করতে হলে বেশি সময় নিয়ে সঠিক নিয়ম মেনে কাজ করুন। প্রতি ক্লিক এ ১/৫ টাকা পাবেন। সময় নষ্ট না করে কাজ করুন। কাজ না বুঝলে নিচে থাকা How To Work বাটন এ ক্লিক করে কাজ বুঝে কাজ করুন। ধন্যবাদ",
   "DialogButtonText": "জয়েন টেলিগ্রাম",
