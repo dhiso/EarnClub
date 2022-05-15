@@ -6,6 +6,9 @@
   "DialogButtonText": "জয়েন টেলিগ্রাম",
   "DialogButtonLink": "https://t.me/mypaybd",
   
-  "VideoLink": "https://youtu.be/p_ClH_6DWjM"
-
+  "VideoLink": "https://youtu.be/p_ClH_6DWjM",
+  "FreeAmount": "20",
+  "BasicAmount": "50",
+  "ProAmount": "100"
+  
 }
